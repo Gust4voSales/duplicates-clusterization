@@ -4,6 +4,8 @@ Duplicates Identification with custom Kmeans implementation
 
 <p align="center">This project aims to find duplicates from the Music_Brainz dataset using techiniches such as phonetic blocking, Levenshtein distance and a custom Kmeans implementation. It was a group work developed in the Database Project class from computer science course. UFAPE 2022.1 </p>
 
+Read the [paper](https://github.com/Gust4voSales/duplicates-identification/blob/main/ARTIGO%20-%20Projeto%20de%20Banco%20de%20Dados.pdf) (pt-BR)
+
 Members:
 - ALLYSSON GUIMARÃES DOS SANTOS SILVA
 - HERMYSON CASSIANO DE MEDEIROS OLIVEIRA
